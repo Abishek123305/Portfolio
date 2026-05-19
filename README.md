@@ -6,11 +6,17 @@
   <img src="https://img.shields.io/badge/Made%20With-HTML%20CSS%20JS-orange?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://portfolio-fawn-gamma-93.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://portfolio-fawn-gamma-93.vercel.app/
 
 ---
 
@@ -35,12 +41,9 @@ Built to represent my journey in:
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome
-- Git & GitHub
-- Vercel Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,django,flask,mysql,git,github,vscode,vercel" />
+</p>
 
 ---
 
@@ -105,6 +108,17 @@ This project is deployed using:
 
 - 📧 pvramachandran6055@gmail.com
 - 💻 GitHub: https://github.com/Abishek123305
+- 🌐 Portfolio: https://portfolio-fawn-gamma-93.vercel.app/
+
+---
+
+## 🎯 Future Improvements
+
+- Add dark/light mode
+- Add animations & transitions
+- Improve mobile responsiveness
+- Add blog section
+- Integrate contact form backend
 
 ---
 
